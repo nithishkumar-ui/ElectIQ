@@ -1,0 +1,36 @@
+{
+  "country": "India",
+  "system": "First-Past-The-Post (FPTP) Parliamentary System with EVMs",
+  "phases": [
+    {
+      "id": 1,
+      "title": "Announcement of Schedule",
+      "description": "The Election Commission of India announces the election dates and the Model Code of Conduct comes into force.",
+      "timeline": "Usually months before the election"
+    },
+    {
+      "id": 2,
+      "title": "Filing of Nominations",
+      "description": "Candidates file their nomination papers, which are scrutinized by the Election Commission.",
+      "timeline": "Few weeks after announcement"
+    },
+    {
+      "id": 3,
+      "title": "Campaigning",
+      "description": "Parties and candidates campaign across the country. Campaigning stops 48 hours before voting.",
+      "timeline": "Ends 48 hours prior to polling"
+    },
+    {
+      "id": 4,
+      "title": "Polling Day(s)",
+      "description": "Voters cast their votes using Electronic Voting Machines (EVMs). Due to India's size, this often happens in multiple phases.",
+      "timeline": "Spans over several weeks"
+    },
+    {
+      "id": 5,
+      "title": "Counting and Results",
+      "description": "Votes are counted and results are declared. The party or coalition with a majority in the Lok Sabha forms the government.",
+      "timeline": "A specific day after all polling phases conclude"
+    }
+  ]
+}

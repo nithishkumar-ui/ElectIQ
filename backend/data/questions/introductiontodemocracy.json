@@ -1,0 +1,26 @@
+[
+  {
+    "id": "intro_1",
+    "question": "What is the primary purpose of a general election?",
+    "options": [
+      "To pass new laws directly",
+      "To elect representatives to govern on behalf of the people",
+      "To decide on foreign policy treaties",
+      "To appoint judges to the Supreme Court"
+    ],
+    "correct_index": 1,
+    "explanation": "In a representative democracy, the main purpose of a general election is for citizens to choose representatives who will make decisions and govern on their behalf."
+  },
+  {
+    "id": "intro_2",
+    "question": "Which of these is a common requirement to vote in most democracies?",
+    "options": [
+      "Owning property",
+      "Being at least 18 years old",
+      "Having a college degree",
+      "Being a member of a political party"
+    ],
+    "correct_index": 1,
+    "explanation": "Most modern democracies require voters to be citizens and meet a minimum age requirement, which is 18 in the vast majority of countries."
+  }
+]

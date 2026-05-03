@@ -1,0 +1,49 @@
+{
+  "country": "India",
+  "code": "india",
+  "election_year": 2024,
+  "phases": [
+    {
+      "id": "announcement",
+      "label": "Election Announcement",
+      "date_range": "March 2024",
+      "description": "ECI announces dates.",
+      "key_facts": [
+        "Model Code of Conduct starts"
+      ],
+      "position": [
+        0,
+        0,
+        -6
+      ]
+    },
+    {
+      "id": "polling",
+      "label": "Multi-phase Polling",
+      "date_range": "April-June 2024",
+      "description": "Voting in 7 phases.",
+      "key_facts": [
+        "EVMs used"
+      ],
+      "position": [
+        2,
+        1,
+        -2
+      ]
+    },
+    {
+      "id": "counting",
+      "label": "Vote Counting",
+      "date_range": "June 2024",
+      "description": "Results declared.",
+      "key_facts": [
+        "All phases counted same day"
+      ],
+      "position": [
+        0,
+        2,
+        2
+      ]
+    }
+  ]
+}

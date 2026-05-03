@@ -1,0 +1,27 @@
+{
+  "country": "United States",
+  "code": "us",
+  "election_year": 2024,
+  "phases": [
+    {
+      "id": "primaries",
+      "label": "Party Primaries",
+      "date_range": "January – June 2024",
+      "description": "Registered party members vote to select their party's nominee.",
+      "key_facts": ["Iowa and New Hampshire traditionally hold the first contests"],
+      "position": [0, 0, -6]
+    },
+    {
+      "id": "election_day",
+      "label": "Election Day",
+      "date_range": "November 5, 2024",
+      "description": "The official day when polling places open for in-person voting. Poll opening and closing times vary by state (typically 6:00 AM to 8:00 PM local time). Ensure you check your exact state ID requirements as around 36 states require some form of voter ID at the polls.",
+      "key_facts": [
+        "Always the first Tuesday after the first Monday in November",
+        "Around 36 states require some form of ID to vote",
+        "Typical poll opening mapping: 6:00 AM to 8:00 PM local time"
+      ],
+      "position": [0, 2, 2]
+    }
+  ]
+}

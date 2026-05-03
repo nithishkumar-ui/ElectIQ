@@ -1,0 +1,49 @@
+{
+  "country": "United Kingdom",
+  "code": "uk",
+  "election_year": 2024,
+  "phases": [
+    {
+      "id": "dissolution",
+      "label": "Parliament Dissolution",
+      "date_range": "May 2024",
+      "description": "Parliament is dissolved.",
+      "key_facts": [
+        "5 weeks before election"
+      ],
+      "position": [
+        0,
+        0,
+        -6
+      ]
+    },
+    {
+      "id": "campaign",
+      "label": "Campaign Period",
+      "date_range": "June 2024",
+      "description": "Parties campaign.",
+      "key_facts": [
+        "Strict spending limits"
+      ],
+      "position": [
+        2,
+        1,
+        -2
+      ]
+    },
+    {
+      "id": "election_day",
+      "label": "Polling Day",
+      "date_range": "July 2024",
+      "description": "Voters elect MPs.",
+      "key_facts": [
+        "First-past-the-post"
+      ],
+      "position": [
+        0,
+        2,
+        2
+      ]
+    }
+  ]
+}

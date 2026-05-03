@@ -1,0 +1,197 @@
+[
+  {
+    "id": "candidate_selection_1",
+    "question": "What is an important aspect of candidate selection (Question 1)?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "explanation": "This explains the important aspect of candidate selection.",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "candidate_selection_2",
+    "question": "What is an important aspect of candidate selection (Question 2)?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "explanation": "This explains the important aspect of candidate selection.",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "candidate_selection_3",
+    "question": "What is an important aspect of candidate selection (Question 3)?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "explanation": "This explains the important aspect of candidate selection.",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "candidate_selection_4",
+    "question": "What is an important aspect of candidate selection (Question 4)?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "explanation": "This explains the important aspect of candidate selection.",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "candidate_selection_5",
+    "question": "What is an important aspect of candidate selection (Question 5)?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "explanation": "This explains the important aspect of candidate selection.",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "candidate_selection_6",
+    "question": "What is an important aspect of candidate selection (Question 6)?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "explanation": "This explains the important aspect of candidate selection.",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "candidate_selection_7",
+    "question": "What is an important aspect of candidate selection (Question 7)?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "explanation": "This explains the important aspect of candidate selection.",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "candidate_selection_8",
+    "question": "What is an important aspect of candidate selection (Question 8)?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "explanation": "This explains the important aspect of candidate selection.",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "candidate_selection_9",
+    "question": "What is an important aspect of candidate selection (Question 9)?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "explanation": "This explains the important aspect of candidate selection.",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "candidate_selection_10",
+    "question": "What is an important aspect of candidate selection (Question 10)?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "explanation": "This explains the important aspect of candidate selection.",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "candidate_selection_11",
+    "question": "What is an important aspect of candidate selection (Question 11)?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "explanation": "This explains the important aspect of candidate selection.",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "candidate_selection_12",
+    "question": "What is an important aspect of candidate selection (Question 12)?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "explanation": "This explains the important aspect of candidate selection.",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "candidate_selection_13",
+    "question": "What is an important aspect of candidate selection (Question 13)?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "explanation": "This explains the important aspect of candidate selection.",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "candidate_selection_14",
+    "question": "What is an important aspect of candidate selection (Question 14)?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "explanation": "This explains the important aspect of candidate selection.",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "candidate_selection_15",
+    "question": "What is an important aspect of candidate selection (Question 15)?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "explanation": "This explains the important aspect of candidate selection.",
+    "difficulty": "advanced"
+  }
+]

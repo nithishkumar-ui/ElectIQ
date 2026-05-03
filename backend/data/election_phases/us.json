@@ -1,0 +1,36 @@
+{
+  "country": "United States",
+  "system": "Electoral College",
+  "phases": [
+    {
+      "id": 1,
+      "title": "Primaries and Caucuses",
+      "description": "States hold primaries and caucuses to select delegates for the national conventions.",
+      "timeline": "January to June of election year"
+    },
+    {
+      "id": 2,
+      "title": "National Conventions",
+      "description": "Parties hold conventions to officially nominate their candidate for President and Vice President.",
+      "timeline": "July to August"
+    },
+    {
+      "id": 3,
+      "title": "General Election",
+      "description": "Citizens vote for President. These votes actually select electors who pledge to vote for a specific candidate.",
+      "timeline": "First Tuesday after November 1st"
+    },
+    {
+      "id": 4,
+      "title": "Electoral College Vote",
+      "description": "Electors cast their official votes for President and Vice President.",
+      "timeline": "December"
+    },
+    {
+      "id": 5,
+      "title": "Inauguration",
+      "description": "The newly elected President takes the oath of office.",
+      "timeline": "January 20th"
+    }
+  ]
+}

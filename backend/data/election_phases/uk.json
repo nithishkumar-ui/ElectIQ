@@ -1,0 +1,30 @@
+{
+  "country": "United Kingdom",
+  "system": "First-Past-The-Post (FPTP) Parliamentary System",
+  "phases": [
+    {
+      "id": 1,
+      "title": "Dissolution of Parliament",
+      "description": "The King, on the advice of the Prime Minister, dissolves Parliament, triggering a general election.",
+      "timeline": "25 working days before election day"
+    },
+    {
+      "id": 2,
+      "title": "Campaign Period",
+      "description": "Political parties and candidates campaign across 650 constituencies.",
+      "timeline": "Lasts about 5 weeks"
+    },
+    {
+      "id": 3,
+      "title": "Polling Day",
+      "description": "Voters cast their ballot for a Member of Parliament (MP) in their local constituency.",
+      "timeline": "Usually a Thursday"
+    },
+    {
+      "id": 4,
+      "title": "Forming a Government",
+      "description": "The party with an absolute majority of MPs (326+) forms the government. The leader becomes Prime Minister.",
+      "timeline": "Immediately after results"
+    }
+  ]
+}
