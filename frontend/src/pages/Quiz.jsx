@@ -28,7 +28,7 @@ export default function Quiz() {
 
     const fetchQuiz = async () => {
       try {
-        const res = await api.get(`/quiz/${topic}`);
+        const res = await api.get(`/quiz/questions/${topic}`);
         setQuestions(res.data);
       } catch (err) {
         console.error("Failed to load quiz", err);

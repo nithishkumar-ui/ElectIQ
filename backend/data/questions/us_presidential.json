@@ -1,0 +1,62 @@
+[
+  {
+    "id": "us_1",
+    "question_text": "How many Electoral College votes does a candidate need to win the U.S. presidency?",
+    "options": [
+      "218",
+      "270",
+      "290",
+      "350"
+    ],
+    "correct_option": 1,
+    "explanation": "A candidate needs at least 270 out of 538 total Electoral College votes to win the presidency."
+  },
+  {
+    "id": "us_2",
+    "question_text": "What is the purpose of the U.S. primary elections?",
+    "options": [
+      "To elect the president directly",
+      "To choose each party's nominee for the general election",
+      "To appoint members of the cabinet",
+      "To decide on constitutional amendments"
+    ],
+    "correct_option": 1,
+    "explanation": "Primary elections (and caucuses) allow voters within each party to select their candidate for the general election."
+  },
+  {
+    "id": "us_3",
+    "question_text": "On what day are U.S. general elections traditionally held?",
+    "options": [
+      "The first Monday of November",
+      "The last Tuesday of October",
+      "The Tuesday after the first Monday of November",
+      "The first Saturday of November"
+    ],
+    "correct_option": 2,
+    "explanation": "U.S. federal elections are held on the Tuesday after the first Monday in November, as established by Congress in 1845."
+  },
+  {
+    "id": "us_4",
+    "question_text": "What happens if no presidential candidate receives 270 Electoral College votes?",
+    "options": [
+      "A runoff election is held between the top two candidates",
+      "The Supreme Court decides the winner",
+      "The House of Representatives chooses the president",
+      "The current president remains in office"
+    ],
+    "correct_option": 2,
+    "explanation": "Under the 12th Amendment, if no candidate wins a majority of electoral votes, the House of Representatives selects the president from the top three candidates."
+  },
+  {
+    "id": "us_5",
+    "question_text": "Which constitutional amendment gave women the right to vote in the United States?",
+    "options": [
+      "15th Amendment",
+      "17th Amendment",
+      "19th Amendment",
+      "21st Amendment"
+    ],
+    "correct_option": 2,
+    "explanation": "The 19th Amendment, ratified in 1920, prohibits denying the right to vote based on sex, granting women the right to vote nationwide."
+  }
+]

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+electiq.db
+*.db
+docker-compose.yml

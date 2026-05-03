@@ -3,6 +3,11 @@ from services import election_data
 
 router = APIRouter()
 
+@router.get("/")
+def get_all_elections():
+    """Return all elections for the Explore page."""
+    return election_data.get_all_elections()
+
 @router.get("/phases/{country_code}")
 def get_phases(country_code: str):
     data = election_data.get_election_phases(country_code)

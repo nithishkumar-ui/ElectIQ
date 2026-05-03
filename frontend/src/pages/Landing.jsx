@@ -25,7 +25,7 @@ export default function Landing() {
       <section className="relative min-h-[90vh] flex items-center">
         {/* 3D Background */}
         <div className="absolute inset-0 z-0 opacity-40">
-          <Canvas camera={{ position: [0, 0, 5] }}>
+          <Canvas camera={{ position: [0, 0, 5] }} gl={{ powerPreference: "high-performance", antialias: false, preserveDrawingBuffer: true }}>
             <ambientLight intensity={0.5} />
             <directionalLight position={[2, 2, 5]} intensity={1} />
             <AnimatedSphere />

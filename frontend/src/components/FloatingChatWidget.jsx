@@ -1,12 +1,9 @@
 import { useState, useRef, useEffect } from 'react';
-import { useChatStore } from '../store/authStore'; // Wait, it's chatStore
 import { MessageSquare, X, Send, Loader2 } from 'lucide-react';
-
-// Using actual chatStore
-import { useChatStore as actualChatStore } from '../store/chatStore';
+import { useChatStore } from '../store/chatStore';
 
 export default function FloatingChatWidget() {
-  const { messages, isTyping, isOpen, toggleChat, sendMessage } = actualChatStore();
+  const { messages, isTyping, isOpen, toggleChat, sendMessage } = useChatStore();
   const [input, setInput] = useState('');
   const messagesEndRef = useRef(null);
 

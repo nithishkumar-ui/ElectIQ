@@ -1,11 +1,17 @@
-import google.generativeai as genai
+from google import genai
 from config import settings
 
-# Configure Gemini
-genai.configure(api_key=settings.GEMINI_API_KEY)
+# Lazy client initialization
+_client = None
 
-# Use the latest pro model
-model = genai.GenerativeModel('gemini-pro')
+def _get_client():
+    global _client
+    if _client is None:
+        api_key = settings.GEMINI_API_KEY
+        if not api_key:
+            raise RuntimeError("GEMINI_API_KEY is not set")
+        _client = genai.Client(api_key=api_key)
+    return _client
 
 SYSTEM_PROMPT = """
 You are ElectIQ, an AI assistant dedicated to educating people about democratic elections, 
@@ -27,7 +33,11 @@ async def generate_chat_response(message: str, context: str = None) -> str:
         
         prompt += f"User: {message}\nElectIQ:"
         
-        response = model.generate_content(prompt)
+        client = _get_client()
+        response = client.models.generate_content(
+            model='gemini-1.5-pro',
+            contents=prompt
+        )
         return response.text
     except Exception as e:
         print(f"Error calling Gemini API: {e}")
